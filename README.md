@@ -21,3 +21,7 @@ Slide the button back and forth to look like more human.
 - Selenium
 - Pillow
 - pyautogui
+
+## Reference
+
+- https://www.codestudyblog.com/cnb/0620215144.html
